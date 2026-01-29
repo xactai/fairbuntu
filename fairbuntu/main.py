@@ -1,2 +1,2 @@
 print("Hello from Fairbuntu")
-print("We are comming soon")
+print("We are coming soon")
